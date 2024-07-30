@@ -13,7 +13,7 @@ National Template then compiles this gathered information into a structured Nati
 Participants in the simulation benefit from having access to detailed information, enabling them to make more informed and strategic decisions during the simulation exercises. The collaboration between National Template and the UN Simulator allows for a deeper understanding of national identities and international relations, making the simulation exercises more effective and educational. Furthermore, feedback from the simulations can be used to refine and update the national profiles, ensuring they remain accurate and relevant for future simulations.
 
 #
-### National Identity Profile Diagrams
+### National Identity Profile Architecture
 
 Low-Level Diagram
 ```
