@@ -15,6 +15,7 @@ Participants in the simulation benefit from having access to detailed informatio
 #
 ### National Identity Profile Diagrams
 
+Low-Level Diagram
 ```
 National Identity Profile
 |
@@ -86,6 +87,7 @@ National Identity Profile
 |   |-- Social Norms
 ```
 
+High-Level Diagram
 ```
 National Identity Profile
 |
