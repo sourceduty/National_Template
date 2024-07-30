@@ -87,14 +87,19 @@ National Identity Profile
 ```
 
 ```
-                National Identity Profile
-                         |
-    --------------------------------------------------------
-    |            |              |            |             |
-Demographics  Geography     History       Culture     Government & Politics
-    |            |              |            |             |
-   ...          ...            ...          ...           ...
-
+National Identity Profile
+|
+|-- Demographics
+|-- Geography
+|-- History
+|-- Culture
+|-- Government and Politics
+|-- Economy
+|-- Education
+|-- Healthcare
+|-- Infrastructure
+|-- National Symbols
+|-- Values and Beliefs
 ```
 
 #
